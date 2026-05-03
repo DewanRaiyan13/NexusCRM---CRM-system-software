@@ -41,4 +41,3 @@ NexusCRM is a modern, high-performance Customer Relationship Management software
 ![NexusCRM Preview](public/preview.png)
 
 ---
-Created with ❤️ by Antigravity
